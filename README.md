@@ -7,6 +7,3 @@
 - 🔹 **Programming**: Java, JavaScript, TypeScript
 - 🔹 **Frameworks**:  Vue, Node.js
 - 🔹 **Databases**: MySQL, MongoDB
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monster295&show_icons=true&theme=radical)
